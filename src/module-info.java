@@ -1,2 +1,0 @@
-module Batch2Assignment {
-}
